@@ -62,7 +62,7 @@ This project aims to analyze factors influencing cancellations and provide actio
 # 🚀 How to Run
 
 1. Clone this repository:
-   - git clone https://github.com/your-username/hotel-booking-analysis.git
+   - git clone [https://github.com/your-username/hotel-booking-analysis.git](https://github.com/Ayush647646/Hotel_booking_analysis/tree/main)
    - cd hotel-booking-analysis
 2. Install required libraries:
    - pip install -r requirements.txt
